@@ -41,4 +41,5 @@ To simulate a Full wave Centre Tapped Transformer rectifier circuit and compare 
 <img width="1280" height="641" alt="image" src="https://github.com/user-attachments/assets/0dc75a4a-9a29-44ad-bb95-238e05da6685" />
 
 ## RESULT:
-The simulation was done in LTspice and the output waveform is obtained.<br>
+<img width="1409" height="827" alt="image" src="https://github.com/user-attachments/assets/c220c75f-5324-469f-9822-94e2ca665c2f" />
+
